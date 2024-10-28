@@ -1,0 +1,19 @@
+{
+    "filament_cost": [
+        "3000"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA MD"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA MD",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.1.1.0"
+}

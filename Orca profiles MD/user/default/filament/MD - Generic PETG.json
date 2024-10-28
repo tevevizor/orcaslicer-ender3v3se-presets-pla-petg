@@ -1,0 +1,38 @@
+{
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#C0C0C0"
+    ],
+    "filament_cost": [
+        "2800"
+    ],
+    "filament_flow_ratio": [
+        "1.045"
+    ],
+    "filament_max_volumetric_speed": [
+        "11"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "MD - Generic PETG"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PETG",
+    "is_custom_defined": "0",
+    "name": "MD - Generic PETG",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "215"
+    ],
+    "version": "1.8.0.0"
+}
