@@ -31,9 +31,6 @@
     "outer_wall_acceleration": "1000",
     "outer_wall_line_width": "0.46",
     "outer_wall_speed": "60",
-    "post_process": [
-        "C:\\Users\\Drago\\OneDrive\\Documents\\PrintMetadataRelocator.exe"
-    ],
     "precise_outer_wall": "1",
     "print_settings_id": "PLA - 0.20mm FAST",
     "raft_first_layer_density": "100%",

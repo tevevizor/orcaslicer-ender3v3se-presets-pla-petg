@@ -6,26 +6,23 @@
         "3000"
     ],
     "filament_flow_ratio": [
-        "0.94"
+        "1.04"
     ],
     "filament_settings_id": [
-        "MD - Hyper PLA"
+        "MD - DD PLA"
     ],
     "filament_vendor": [
-        "Creality"
+        "Devil Design"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "50"
-    ],
     "inherits": "Creality Generic PLA",
     "is_custom_defined": "0",
-    "name": "MD - Hyper PLA",
+    "name": "MD - DD PLA",
     "nozzle_temperature": [
-        "205"
+        "215"
     ],
     "nozzle_temperature_initial_layer": [
-        "205"
+        "215"
     ],
     "version": "1.7.0.0"
 }
