@@ -2,7 +2,7 @@
 
 After few months of tweaking I've gotten to the point where most of the settings are basically perfect.
 
-I have used only **Creality Hyper PLA** and some **generic** "Devil Design" **PET-G**, results are great with both.
+I have used  **Devil Design PLA**, **Creality Hyper PLA** and some **generic PET-G**, results are great with all.
 
 
 Make sure to select printer configuration according to the material type you want to use first, filament should then be selected automatically and you'll have an option to choose between created process presets.
