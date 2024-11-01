@@ -11,3 +11,17 @@ Make sure to select printer configuration according to the material type you wan
 Only major hardware modification I have done to the printer is full ceramic **K1 hotend with unicorn nozzle** and part cooling dan is mounted to the side using [this shroud](https://www.printables.com/model/637754-ender-3-v3-se-lightweight-fan-shroud).
 
 [Over here](https://www.reddit.com/r/Ender3V3SE/comments/1gafygk/installed_octopi_inside_ender_3_v3_se/) you'll find photos of my OctoPi setup built into the printer itself, together with relay module for power control.
+
+
+Printer presets available:
+
+![Printers](/Printers.png?raw=true "Optional Title")
+
+Filaments:
+
+![Filaments](/Filaments.png?raw=true "Optional Title")
+
+Processes:
+
+![Processes](/Processes.png?raw=true "Optional Title")
+
