@@ -5,6 +5,9 @@
     "deretraction_speed": [
         "35"
     ],
+    "extruder_clearance_height_to_lid": "55",
+    "extruder_clearance_height_to_rod": "55",
+    "extruder_clearance_radius": "50",
     "from": "User",
     "gcode_flavor": "marlin2",
     "inherits": "Creality Ender-3 V2 0.4 nozzle",
@@ -58,7 +61,7 @@
     "manual_filament_change": "1",
     "name": "Creality Ender-3 V3 SE PLA",
     "nozzle_type": "brass",
-    "print_host": "octopi.local",
+    "print_host": "192.168.1.195",
     "printer_settings_id": "Creality Ender-3 V3 SE PLA",
     "printhost_apikey": "A57DA38CCCA245E2812F58A30A0D8AE5",
     "retract_before_wipe": [

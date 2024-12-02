@@ -5,11 +5,14 @@
     "deretraction_speed": [
         "45"
     ],
+    "extruder_clearance_height_to_lid": "55",
+    "extruder_clearance_height_to_rod": "55",
+    "extruder_clearance_radius": "50",
     "from": "User",
     "gcode_flavor": "marlin2",
     "inherits": "Creality Ender-3 V2 0.4 nozzle",
     "is_custom_defined": "0",
-    "machine_end_gcode": "G91 ;Relative positioning\nG1 E-2 F2700 ;Retract a bit\nG1 E-2 Z0.2 F2400 ;Retract and raise Z\nG1 X5 Y5 F3000 ;Wipe out\nG1 Z10 ;Raise Z more\nG90 ;Absolute positioning\n\nG1 X0 Y{print_bed_max[1]*0.8} F{travel_speed*60} ;\n\nM106 S0 ;Turn-off fan\nM104 S0 ;Turn-off hotend\nM140 S0 ;Turn-off bed\n\nM84 X Y E ;Disable all steppers but Z",
+    "machine_end_gcode": "G91 ;Relative positioning\nG1 E-2 F2700 ;Retract a bit\nG1 E-2 Z0.2 F2400 ;Retract and raise Z\nG1 X5 Y5 F3000 ;Wipe out\nG1 Z10 ;Raise Z more\nG90 ;Absolute positioning\n\nG1 X0 Y{print_bed_max[1]*0.8} F{travel_speed*60} ;old\n;G1 X{print_bed_max[1]} Y{print_bed_max[1]*0.8} F{travel_speed*60} ;move head right\n\nM106 S0 ;Turn-off fan\nM104 S0 ;Turn-off hotend\nM140 S0 ;Turn-off bed\n\nM84 X Y E ;Disable all steppers but Z",
     "machine_max_acceleration_extruding": [
         "2500",
         "2500"
@@ -58,7 +61,7 @@
     "manual_filament_change": "1",
     "name": "Creality Ender-3 V3 SE PETG",
     "nozzle_type": "brass",
-    "print_host": "octopi.local",
+    "print_host": "192.168.1.195",
     "printer_settings_id": "Creality Ender-3 V3 SE PETG",
     "printhost_apikey": "A57DA38CCCA245E2812F58A30A0D8AE5",
     "retract_before_wipe": [
