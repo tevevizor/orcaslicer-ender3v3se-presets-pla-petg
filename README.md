@@ -9,7 +9,7 @@ I have used  **Devil Design PLA**, **Creality Hyper PLA** and some **generic PET
 Make sure to select printer configuration according to the material type you want to use first, filament should then be selected automatically and you'll have an option to choose between created process presets.
 
 ### Mods
-Only major hardware modification I have done to the printer is full ceramic **K1 hotend with unicorn nozzle** and part cooling dan is mounted to the side using [this shroud](https://www.printables.com/model/637754-ender-3-v3-se-lightweight-fan-shroud).
+Only major hardware modification I have done to the printer is full ceramic **K1 hotend with unicorn nozzle** and part cooling is replaced with 5015 blower using [this mount](https://www.printables.com/model/814210-ender-3-v3-se-5015-blower-fan-ducts).
 
 [Over here](https://www.reddit.com/r/Ender3V3SE/s/crWZ9WViXZ) you'll find photos of my OctoPi setup built into the printer itself, together with relay module for power control.
 
