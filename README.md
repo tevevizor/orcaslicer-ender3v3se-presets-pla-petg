@@ -15,16 +15,20 @@ Only major hardware modification I have done to the printer is full ceramic **K1
 
 [Here's the updated version.](https://www.reddit.com/r/Ender3V3SE/s/SHhPTybRxz)
 
+## Hotend photo
+
+![Hotend](/Head.jpg?raw=true  "Hotend photo")
+
 ## Screenshots
 Printer presets available:
 
-![Printers](/Printers.png?raw=true "Optional Title")
+![Printers](/Printers.png?raw=true "Printer presets")
 
 Filaments:
 
-![Filaments](/Filaments.png?raw=true "Optional Title")
+![Filaments](/Filaments.png?raw=true "Filaments")
 
 Processes:
 
-![Processes](/Processes.png?raw=true "Optional Title")
+![Processes](/Processes.png?raw=true "Processes")
 
