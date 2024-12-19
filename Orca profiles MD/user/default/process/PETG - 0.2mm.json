@@ -24,7 +24,7 @@
     "initial_layer_min_bead_width": "100%",
     "initial_layer_speed": "25",
     "inner_wall_acceleration": "1000",
-    "inner_wall_speed": "55",
+    "inner_wall_speed": "70",
     "internal_solid_infill_acceleration": "1000",
     "internal_solid_infill_line_width": "0.44",
     "internal_solid_infill_speed": "80",
@@ -33,7 +33,7 @@
     "name": "PETG - 0.2mm",
     "outer_wall_acceleration": "1000",
     "outer_wall_line_width": "0.45",
-    "outer_wall_speed": "40",
+    "outer_wall_speed": "60",
     "overhang_1_4_speed": "100%",
     "overhang_2_4_speed": "25",
     "precise_outer_wall": "1",
@@ -42,7 +42,6 @@
     "reduce_infill_retraction": "0",
     "resolution": "0.025",
     "seam_gap": "0",
-    "seam_position": "back",
     "skirt_distance": "5",
     "skirt_loops": "4",
     "skirt_speed": "30",
@@ -73,6 +72,6 @@
     "wall_loops": "4",
     "wall_transition_angle": "15",
     "wipe_on_loops": "1",
-    "xy_contour_compensation": "-0.08",
-    "xy_hole_compensation": "0.09"
+    "xy_contour_compensation": "0.03",
+    "xy_hole_compensation": "0.35"
 }
