@@ -80,5 +80,6 @@
     "tree_support_wall_count": "2",
     "version": "1.7.0.0",
     "wall_transition_angle": "15",
-    "xy_contour_compensation": "-0.08"
+    "xy_contour_compensation": "-0.04",
+    "xy_hole_compensation": "0.3"
 }

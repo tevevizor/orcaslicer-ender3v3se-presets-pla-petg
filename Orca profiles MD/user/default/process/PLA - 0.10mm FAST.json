@@ -62,6 +62,6 @@
     "version": "1.7.0.0",
     "wall_transition_angle": "15",
     "wipe_on_loops": "1",
-    "xy_contour_compensation": "0.19",
-    "xy_hole_compensation": "-0.12"
+    "xy_contour_compensation": "-0.12",
+    "xy_hole_compensation": "0.19"
 }

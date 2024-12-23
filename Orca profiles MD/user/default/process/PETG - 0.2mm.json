@@ -72,6 +72,6 @@
     "wall_loops": "4",
     "wall_transition_angle": "15",
     "wipe_on_loops": "1",
-    "xy_contour_compensation": "0.03",
-    "xy_hole_compensation": "0.35"
+    "xy_contour_compensation": "-0.04",
+    "xy_hole_compensation": "0.3"
 }
