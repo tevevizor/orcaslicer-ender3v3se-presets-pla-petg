@@ -2,11 +2,14 @@
     "default_filament_colour": [
         "#FF8040"
     ],
+    "fan_min_speed": [
+        "60"
+    ],
     "filament_cost": [
         "3000"
     ],
     "filament_flow_ratio": [
-        "1.02"
+        "1.018"
     ],
     "filament_settings_id": [
         "MD - DD PLA"
@@ -22,10 +25,13 @@
     "is_custom_defined": "0",
     "name": "MD - DD PLA",
     "nozzle_temperature": [
-        "210"
+        "205"
     ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "210"
+    ],
+    "slow_down_layer_time": [
+        "10"
     ],
     "version": "1.7.0.0"
 }
