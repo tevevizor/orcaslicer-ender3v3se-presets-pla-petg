@@ -2,7 +2,7 @@
 
 ## Information
 
-**Ender 3 V3 SE presets for Orca/Prusa slicer created by MD - [u/Capital_Pangolin_718](https://www.reddit.com/r/Ender3V3SE/s/SHhPTybRxz](https://www.reddit.com/user/Capital_Pangolin_718/))**.  
+**Ender 3 V3 SE presets for Orca/Prusa slicer created by MD - [u/Capital_Pangolin_718](https://www.reddit.com/user/Capital_Pangolin_718/))**.  
 
 After few months of tweaking I've gotten to the point where most of the settings are basically perfect.
 
