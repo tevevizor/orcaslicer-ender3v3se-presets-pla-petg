@@ -14,6 +14,12 @@ Make sure to select printer configuration according to the material type you wan
 ### Mods
 Only major hardware modification I have done to the printer is full ceramic **K1C hotend with unicorn nozzle (KE/SE upgrade kit)** and part cooling is replaced with 5015 blower using [this mount](https://www.printables.com/model/814210-ender-3-v3-se-5015-blower-fan-ducts).
 
+### Instructions
+For Winodws users, close the Orca slicer. Navigate to `%appdata%\OrcaSlicer\` in Explorer and paste the "user" folder from the preset pack over there.
+Run the Orca slicer again and you should be able to see all the presets listed as in the [screenshots section](#screenshots) below.
+
+### Other info
+
 [Over here](https://www.reddit.com/r/Ender3V3SE/s/crWZ9WViXZ) you'll find photos of my OctoPi setup built into the printer itself, together with relay module for power control.
 
 [Here's the updated version.](https://www.reddit.com/r/Ender3V3SE/s/SHhPTybRxz)
